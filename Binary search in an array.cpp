@@ -29,6 +29,7 @@ int main()
 		
 		mid = (first+last)/2;
 	}
+	cout<<"Hello World";
 	if (first>last)
 		cout<<"The number "<<item<<" is not found in given Array!"<<endl;
 	getch();
